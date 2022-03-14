@@ -1,12 +1,14 @@
 ## Title
 My implementation of the demonstration for the paper: KDD2020 Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion.
-No updates for refactoring in future, as I'll try to rewrite all using the new CRSLab framework and implement other papers.
+
+No updates for refactoring in the future(though it's super needed :( ), as I'll try to rewrite all using the new CRSLab framework and implement other papers.
 
 ## Usage
 First please ensure to download the trained parameters for the recommendation module and the conversation module, as this repo only serves as a live-time user-interaction demonstration stystem.
-Please download from: 
+Please download from below, and create a new a new directory called "saved_model" then place the two files under it.
 
 https://drive.google.com/drive/folders/1dNkeAGzprnaVfZegxeLrtp9bxEYCrUY9?usp=sharing
+
 
 To use the command line demo system, please run on linux:
 ```
