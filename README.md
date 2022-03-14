@@ -20,6 +20,9 @@ To use the website UI demo system, please run on linux:
 bash webUI_demo.sh
 ```
 
+A screenshot for the website UI demo system:
+![web demo](https://ibb.co/GFKwsfk)
+
 Please insure you have GPU and cuda to test the model.
 
 ## Reference
