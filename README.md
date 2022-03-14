@@ -20,10 +20,13 @@ To use the website UI demo system, please run on linux:
 bash webUI_demo.sh
 ```
 
+Please insure you have GPU and cuda to test the model.
+
+## Example
+
 A screenshot for the website UI demo system:
 [![image](https://www.linkpicture.com/q/demo_screenshot.png)](https://www.linkpicture.com/view.php?img=LPic622f59f63d194299234877)
 
-Please insure you have GPU and cuda to test the model.
 
 ## Reference
 @inproceedings{DBLP:conf/kdd/ZhouZBZWY20,
